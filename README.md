@@ -16,13 +16,13 @@
 
 ## Contexto
 
-* Projeto desenvolvido para colocar em prática conhecimentos adquiridos em APIs OO / NoSQL
+* Projeto desenvolvido para colocar em prática conhecimentos adquiridos em MongoDB com Node.js e POO
 
 ---
 
 ## Tecnologias Utilizadas
 
-* NoSQL
+* MongoDB
 * TypeScript
 
 ---
