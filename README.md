@@ -75,7 +75,7 @@
 
 * Rode os testes
   ```sh
-    npm test
+    npm run test:dev
   ```
 
 ---
