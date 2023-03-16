@@ -70,7 +70,7 @@
 
 * Entre na pasta do repositório que você clonou:
   ```sh
-    cd react-testing-library
+    cd car-shop
   ```
 
 * Rode os testes
